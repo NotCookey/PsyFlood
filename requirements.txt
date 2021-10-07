@@ -1,0 +1,6 @@
+socket
+random
+string
+threading
+os
+colorama
