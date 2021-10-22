@@ -16,5 +16,4 @@
 > **This tool is clearly designed for education purposes and only to understand how sockets and DDOS attacks are performed. You are accountable for your own actions!**
 <br>
   
-- **Developed by : Kanao#7218 [SecretX]**
-- **Discord ID : 734372837149769771**
+- **Developed By SecretX**
