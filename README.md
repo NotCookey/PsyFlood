@@ -13,7 +13,7 @@
 - ✅ **Sock4/Sock5 Support**
 <br>
 
-> **This tool is clearly designed for education purposes and only to understand how sockets and DDOS attacks are performed. You are accountable for your own actions!**
+> **I clearly designed this tool for education purposes and only to understand how sockets and DDOS attacks are performed. You are accountable for your own actions!**
 <br>
   
 - **Developed By SecretX**
