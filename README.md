@@ -3,12 +3,3 @@
 <p align="center"><b>An Advance HTTP Python MultiThreaded DDOS Tool</b></p>
 <br>
 <p align="center">PsyFlood is an Advance DDOS Tool using MultiThreaded Sockets written in Python. It can bring down any normal website with no protection in minutes.<br>
-
-◽ __**Supports**__
-- ✅ **Custom Host Address / Ip**
-- ✅ **Custom Port Attack Support**
-- ✅ **Custom Threads (Default 1000)**
-
-◽ __**Future Updates**__
-- ✅ **Sock4/Sock5 Support**
-<br>
