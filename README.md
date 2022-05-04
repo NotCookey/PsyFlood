@@ -12,6 +12,3 @@
 ◽ __**Future Updates**__
 - ✅ **Sock4/Sock5 Support**
 <br>
-
-> **I clearly designed this tool for education purposes and only to understand how sockets and DDOS attacks are performed. You are accountable for your own actions!**
-<br>
